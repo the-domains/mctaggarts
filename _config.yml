@@ -1,0 +1,14 @@
+layout_spectrum: 0.4785177
+color:
+  saturation: 0.8942185
+  lightness: 0.765825
+  brandStrength: 0.4279568
+  brandColors:
+    - '#FFFFFF'
+    - '#131220'
+    - '#6C4D5D'
+    - '#5E8652'
+    - '#D1C1B4'
+  rhythmicContrast: 0.7992958
+typography_spectrum: 0.8609022
+name: McTaggarts
